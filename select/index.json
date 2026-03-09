@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "finder",
+  "base_artist": "claquepot",
+  "createdAt": "2026-03-09T10:26:06.580332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Finder",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/01_Finder_Bladee.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Finder",
+      "artist": "Black",
+      "has_synced": true,
+      "path": "select/02_Finder_Black.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Finder of Lost Loves",
+      "artist": "Dionne Warwick & Glenn Jones",
+      "has_synced": false,
+      "path": "select/03_Finder_of_Lost_Loves_Dionne_Warwick_&_Glenn_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Finder Of Lost Loves (Duet With Glenn Jones)",
+      "artist": "Dionne Warwick",
+      "has_synced": false,
+      "path": "select/04_Finder_Of_Lost_Loves_(Duet_With_Glenn_Jones)_Dionne_Warwick.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Finder Of Lost Loves (Duet with Glenn Jones)",
+      "artist": "Dionne Warwick",
+      "has_synced": true,
+      "path": "select/05_Finder_Of_Lost_Loves_(Duet_with_Glenn_Jones)_Dionne_Warwick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pork Finder",
+      "artist": "Gaza",
+      "has_synced": false,
+      "path": "select/06_Pork_Finder_Gaza.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Finder",
+      "artist": "livetune feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/07_Finder_livetune_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Finder (ft. Hatsune Miku) [ファインダー (ft. 初音ミク)]",
+      "artist": "livetune",
+      "has_synced": false,
+      "path": "select/08_Finder_(ft._Hatsune_Miku)_[ファインダー_(ft._初音ミク)]_livetune.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Man Skal Dø Lidt (Før man Finder Vej)",
+      "artist": "Medina",
+      "has_synced": false,
+      "path": "select/09_Man_Skal_Dø_Lidt_(Før_man_Finder_Vej)_Medina.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ファインダー - imoutoid's\"Finder Is Not Desktop Experience Remix\"",
+      "artist": "livetune feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/10_ファインダー_-_imoutoid's_Finder_Is_Not_Desktop_Experience_Remix_livetune_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "finder",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/pl_01_finder_claquepot.txt"
+    }
+  ]
+}
